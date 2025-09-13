@@ -4,5 +4,9 @@ matplotlib
 seaborn
 wordcloud
 emoji
-urlextract
 plotly
+urlextract==1.9.0
+dnspython
+idna
+uritools
+platformdirs
